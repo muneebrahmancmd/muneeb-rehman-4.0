@@ -3,6 +3,7 @@
 **Creative developer, web designer, graphic designer, AI enthusiast and photo editor based in Pakistan.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-muneeb--rehman--4.0-black?logo=github)](https://github.com/muneebrahmancmd/muneeb-rehman-4.0)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-brightgreen?logo=vercel)](https://muneeb-rehman-40.vercel.app/)
 
 A brand-new portfolio site — pure static HTML, CSS and JavaScript with GSAP animations. No build step, no framework.
 
