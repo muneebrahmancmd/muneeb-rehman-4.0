@@ -1,0 +1,6 @@
+/* Free fonts (SIL OFL): Inter and Barlow Condensed, via @fontsource */
+@font-face { font-family: "MR Sans"; src: url("mr-sans.woff2") format("woff2"); font-weight: normal; font-style: normal; font-display: swap; }
+@font-face { font-family: "MR Display"; src: url("mr-display.woff2") format("woff2"); font-weight: normal; font-style: normal; font-display: swap; }
+@font-face { font-family: "MR Bold"; src: url("mr-bold.woff2") format("woff2"); font-weight: normal; font-style: normal; font-display: swap; }
+@font-face { font-family: "MR Md"; src: url("mr-md.woff2") format("woff2"); font-weight: 500; font-style: normal; font-display: swap; }
+@font-face { font-family: "MR Italic"; src: url("mr-italic.woff2") format("woff2"); font-weight: normal; font-style: normal; font-display: swap; }
